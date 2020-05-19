@@ -1,3 +1,6 @@
 [submodule "mixed/cltk/gretil"]
 	path = mixed/cltk/gretil
 	url = https://github.com/cltk/pali_texts_gretil.git
+[submodule "kosha/indic-dict"]
+	path = kosha/indic-dict
+	url = https://github.com/indic-dict/stardict-pali.git
