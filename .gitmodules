@@ -1,0 +1,3 @@
+[submodule "mixed/cltk/gretil"]
+	path = mixed/cltk/gretil
+	url = https://github.com/cltk/pali_texts_gretil.git
